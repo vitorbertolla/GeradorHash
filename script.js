@@ -1,4 +1,3 @@
-import md5 from 'https://cdn.jsdelivr.net/npm/blueimp-md5@2.19.0/js/md5.min.js';
 
 document.getElementById("botao").onclick = gerarHash
 
